@@ -15,9 +15,7 @@ private enum class FanSpeed(val label: Int) {
 private const val RADIUS_OFFSET_LABEL = 30
 private const val RADIUS_OFFSET_INDICATOR = -35
 
-private var radius = 0.0f
-private var fanSpeed = FanSpeed.OFF
-private val pointPosition: PointF = PointF(0.0f, 0.0f)
+
 
 
 class DialView @JvmOverloads constructor(
@@ -25,4 +23,7 @@ class DialView @JvmOverloads constructor(
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0
 ) : View(context, attrs, defStyleAttr) {
+    private var radius = 0.0f
+    private var fanSpeed = FanSpeed.OFF
+    private val pointPosition: PointF = PointF(0.0f, 0.0f)
 }
