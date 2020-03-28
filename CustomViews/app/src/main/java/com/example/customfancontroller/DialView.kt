@@ -4,9 +4,11 @@ import android.content.Context
 import android.graphics.*
 import android.util.AttributeSet
 import android.view.View
+import androidx.core.content.withStyledAttributes
 import kotlin.math.cos
 import kotlin.math.min
 import kotlin.math.sin
+
 
 private enum class FanSpeed(val label: Int) {
     OFF(R.string.fan_off),
@@ -25,7 +27,9 @@ private enum class FanSpeed(val label: Int) {
 private const val RADIUS_OFFSET_LABEL = 30
 private const val RADIUS_OFFSET_INDICATOR = -35
 
-
+private var fanSpeedLowColor = 0
+private var fanSpeedMediumColor = 0
+private var fanSeedMaxColor = 0
 
 
 class DialView @JvmOverloads constructor(
@@ -39,7 +43,17 @@ class DialView @JvmOverloads constructor(
 
     init {
         isClickable = true
+        context.withStyledAttributes(set = attrs, attrs = R.styleable.DialView) {
+            fanSpeedLowColor = getColor(R.styleable.DialView_fanColor1, 0)
+            fanSpeedMediumColor = getColor(R.styleable.DialView_fanColor2, 0)
+            fanSeedMaxColor = getColor(R.styleable.DialView_fanColor3, 0)
+        }
+
+
     }
+
+
+
 
     override fun onSizeChanged(w: Int, h: Int, oldw: Int, oldh: Int) {
         radius = (min(width,height)/2.0*0.8).toFloat()
@@ -61,7 +75,13 @@ class DialView @JvmOverloads constructor(
 
     override fun onDraw(canvas: Canvas?) {
         super.onDraw(canvas)
-        paint.color = if (fanSpeed == FanSpeed.OFF) Color.GRAY else Color.GREEN
+        //paint.color = if (fanSpeed == FanSpeed.OFF) Color.GRAY else Color.GREEN
+        paint.color = when (fanSpeed) {
+            FanSpeed.OFF -> Color.GRAY
+            FanSpeed.LOW -> fanSpeedLowColor
+            FanSpeed.MEDIUM -> fanSpeedMediumColor
+            FanSpeed.HIGH -> fanSeedMaxColor
+        } as Int
         canvas?.drawCircle((width/2).toFloat(),(height/2).toFloat(),radius,paint)
 
         val markerRadius = radius + RADIUS_OFFSET_INDICATOR
@@ -75,6 +95,8 @@ class DialView @JvmOverloads constructor(
             val label = resources.getString(i.label)
             canvas?.drawText(label, pointPosition.x, pointPosition.y,paint)
         }
+
+
     }
 
     override fun performClick(): Boolean {
