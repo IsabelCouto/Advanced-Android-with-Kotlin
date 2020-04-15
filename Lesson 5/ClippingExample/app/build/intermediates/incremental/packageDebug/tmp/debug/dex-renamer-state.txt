@@ -1,0 +1,4 @@
+#Wed Apr 15 11:01:21 WEST 2020
+base.0=/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 5/ClippingExample/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

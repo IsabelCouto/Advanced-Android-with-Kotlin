@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 5/ClippingExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw480dp-v13/values-sw480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 5/ClippingExample/app/src/main/res/values-sw480dp/dimens.xml",
+                    "from": {
+                        "startLines": "8,3,2,5,6,10,9",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "220,94,52,138,176,298,260",
+                        "endColumns": "39,42,41,37,42,37,37",
+                        "endOffsets": "259,136,93,175,218,335,297"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,146,192,234,281,323",
+                        "endColumns": "43,46,45,41,46,41,41",
+                        "endOffsets": "94,141,187,229,276,318,360"
+                    }
+                }
+            ]
+        }
+    ]
+}
