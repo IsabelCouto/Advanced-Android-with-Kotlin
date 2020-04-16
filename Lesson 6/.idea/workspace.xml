@@ -6,85 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="091f829e-adcd-4f60-8fe8-83056611b45a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/.idea/android-kotlin-animation-property-animation-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/java/com/google/samples/propertyanimation/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/drawable/ic_star.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/begin/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/java/com/google/samples/propertyanimation/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/drawable/ic_star.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-kotlin-animation-property-animation-master/end/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="091f829e-adcd-4f60-8fe8-83056611b45a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,17 +30,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/samples/propertyanimation/MainActivity.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="153" column="19" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -155,22 +67,6 @@
             <path>
               <item name="PropertyAnimation" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="PropertyAnimation" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="PropertyAnimation" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="propertyanimation" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PropertyAnimation" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
@@ -178,11 +74,6 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
               <item name="propertyanimation" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PropertyAnimation" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
               <item name="PropertyAnimation" type="1abcf292:AndroidViewProjectNode" />
@@ -333,8 +224,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="457" width="1920" height="975" extended-state="0" />
-    <editor active="true" />
+    <frame x="26" y="25" width="1920" height="975" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2257721" />
