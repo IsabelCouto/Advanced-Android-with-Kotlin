@@ -1,0 +1,4 @@
+#Thu Apr 16 15:29:41 WEST 2020
+base.0=/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Apr 16 15:29:41 WEST 2020
+0.baseType=DIRECTORY
+0.base=/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5a9748b899dae28cfa9d1f5a363e9f57/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f51a52c43541c2e860d23a11a00d177a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha5] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58f036c5ac34e25d8685e0f0410fa775/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/48509dd83d7a0c14ee8f4afdf9caeb6a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/79ee56722788942011b93aaa28539d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bfcf7aed30c2413bdb043dbc02921f9b/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b86b61078e21ed37ea4d3d92c770d2b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ed5353e339053000d113a780536a5f94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ac53e7790e9f6a9add2dcd7a0c669114/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd57feb8160f21f8cfe028d865e174e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4ad216d836eb18486867b9d2527b4fb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/118a5fc2adf0d693c26bbe16407f37a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/82479f23a7c61755e71d0203721be2f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd8b2dfc0268d5b56436d33361d87f73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f9ed4120baf5deda3e251ddd98b8fa8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b8ddeeaf5ed140559d8f42eaba69f1e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2f126b9760983c17be2c629772a2dac6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/003bfcbc352a9748a107c84592f068ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a387713812cec0a44f249276d706afed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9aed0ef91e1acccaf505537759db791e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/64f100077acc2503ddae2f3656040071/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/cbf3b4ba299a98028370c69c7eb35d4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/1274391cd433e0440cd33432ced23bd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/97379e77d5033a4413dce9fdf9658d53/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c917aca5b740935b1b1ebefb642c0ccb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4795b258b1e491f7c590624f5c6fd6f7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ff8de4be69be54c75709a226ad4131f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ee330eac302359c043ae18994dc6eab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/09d9742be8771e25098253aedd3855e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/6f03a9e11a444681b2a498380fafd203/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d537c8459bcfa8bd2220497b6319f984/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/33accbc24ebd84e504942282f78d3941/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e54ee3fa1cd17a40dbcdb3b7d3996dcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/23bc4dd31c16d68d48b5ae70ddcf2ae9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/3d34789ada5781681dc6da12810bb2b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/326bf7c9d4aca321312a2c9167eadd22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90f09eaeb3bff34dd5d8e7a0d55811a7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+	package
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:18:58-106
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:18:11-57
+	android:versionCode
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:1-117:12
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:20:5-115:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha5] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58f036c5ac34e25d8685e0f0410fa775/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha5] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58f036c5ac34e25d8685e0f0410fa775/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/48509dd83d7a0c14ee8f4afdf9caeb6a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/48509dd83d7a0c14ee8f4afdf9caeb6a/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/97379e77d5033a4413dce9fdf9658d53/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/97379e77d5033a4413dce9fdf9658d53/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4795b258b1e491f7c590624f5c6fd6f7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4795b258b1e491f7c590624f5c6fd6f7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/97379e77d5033a4413dce9fdf9658d53/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:25:13-39
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:23:13-45
+	tools:ignore
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:27:13-52
+	android:roundIcon
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:24:13-58
+	android:icon
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:22:13-47
+	android:allowBackup
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:21:13-39
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.google.samples.motionlayoutcodelab.Step1Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:30:13-57
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:29:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:32:13-34:53
+	android:value
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:34:21-50
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:33:21-67
+activity#com.google.samples.motionlayoutcodelab.Step2Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:36:9-43:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:38:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:39:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:37:17-46
+activity#com.google.samples.motionlayoutcodelab.Step3Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:44:9-51:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:46:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:47:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:45:17-46
+activity#com.google.samples.motionlayoutcodelab.Step4Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:52:9-59:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:54:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:55:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:53:17-46
+activity#com.google.samples.motionlayoutcodelab.Step5Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:60:9-67:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:62:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:63:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:61:17-46
+activity#com.google.samples.motionlayoutcodelab.Step6Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:68:9-75:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:70:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:71:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:69:17-46
+activity#com.google.samples.motionlayoutcodelab.Step7Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:76:9-83:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:78:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:79:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:77:17-46
+activity#com.google.samples.motionlayoutcodelab.Step7CompletedActivity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:84:9-91:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:86:17-71
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:87:17-48
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:85:17-55
+activity#com.google.samples.motionlayoutcodelab.Step8Activity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:92:9-99:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:94:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:95:17-60
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:93:17-46
+activity#com.google.samples.motionlayoutcodelab.Step8CompletedActivity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:100:9-107:20
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:102:17-61
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:103:17-60
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:101:17-55
+activity#com.google.samples.motionlayoutcodelab.MainActivity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:108:9-114:20
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:108:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:109:13-113:29
+action#android.intent.action.MAIN
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:110:17-68
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:110:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:112:17-76
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml:112:27-74
+uses-sdk
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5a9748b899dae28cfa9d1f5a363e9f57/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5a9748b899dae28cfa9d1f5a363e9f57/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f51a52c43541c2e860d23a11a00d177a/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f51a52c43541c2e860d23a11a00d177a/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha5] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58f036c5ac34e25d8685e0f0410fa775/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha5] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58f036c5ac34e25d8685e0f0410fa775/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/48509dd83d7a0c14ee8f4afdf9caeb6a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/48509dd83d7a0c14ee8f4afdf9caeb6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/79ee56722788942011b93aaa28539d2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/79ee56722788942011b93aaa28539d2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bfcf7aed30c2413bdb043dbc02921f9b/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bfcf7aed30c2413bdb043dbc02921f9b/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b86b61078e21ed37ea4d3d92c770d2b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b86b61078e21ed37ea4d3d92c770d2b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ed5353e339053000d113a780536a5f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ed5353e339053000d113a780536a5f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ac53e7790e9f6a9add2dcd7a0c669114/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ac53e7790e9f6a9add2dcd7a0c669114/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd57feb8160f21f8cfe028d865e174e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd57feb8160f21f8cfe028d865e174e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4ad216d836eb18486867b9d2527b4fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4ad216d836eb18486867b9d2527b4fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/118a5fc2adf0d693c26bbe16407f37a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/118a5fc2adf0d693c26bbe16407f37a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/82479f23a7c61755e71d0203721be2f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/82479f23a7c61755e71d0203721be2f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd8b2dfc0268d5b56436d33361d87f73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd8b2dfc0268d5b56436d33361d87f73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f9ed4120baf5deda3e251ddd98b8fa8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f9ed4120baf5deda3e251ddd98b8fa8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b8ddeeaf5ed140559d8f42eaba69f1e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b8ddeeaf5ed140559d8f42eaba69f1e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2f126b9760983c17be2c629772a2dac6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2f126b9760983c17be2c629772a2dac6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/003bfcbc352a9748a107c84592f068ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/003bfcbc352a9748a107c84592f068ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a387713812cec0a44f249276d706afed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a387713812cec0a44f249276d706afed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9aed0ef91e1acccaf505537759db791e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9aed0ef91e1acccaf505537759db791e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/64f100077acc2503ddae2f3656040071/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/64f100077acc2503ddae2f3656040071/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/cbf3b4ba299a98028370c69c7eb35d4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/cbf3b4ba299a98028370c69c7eb35d4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/1274391cd433e0440cd33432ced23bd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/1274391cd433e0440cd33432ced23bd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/97379e77d5033a4413dce9fdf9658d53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/97379e77d5033a4413dce9fdf9658d53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c917aca5b740935b1b1ebefb642c0ccb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c917aca5b740935b1b1ebefb642c0ccb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4795b258b1e491f7c590624f5c6fd6f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/4795b258b1e491f7c590624f5c6fd6f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ff8de4be69be54c75709a226ad4131f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ff8de4be69be54c75709a226ad4131f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ee330eac302359c043ae18994dc6eab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ee330eac302359c043ae18994dc6eab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/09d9742be8771e25098253aedd3855e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/09d9742be8771e25098253aedd3855e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/6f03a9e11a444681b2a498380fafd203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/6f03a9e11a444681b2a498380fafd203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d537c8459bcfa8bd2220497b6319f984/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d537c8459bcfa8bd2220497b6319f984/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/33accbc24ebd84e504942282f78d3941/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/33accbc24ebd84e504942282f78d3941/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e54ee3fa1cd17a40dbcdb3b7d3996dcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e54ee3fa1cd17a40dbcdb3b7d3996dcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/23bc4dd31c16d68d48b5ae70ddcf2ae9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/23bc4dd31c16d68d48b5ae70ddcf2ae9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/3d34789ada5781681dc6da12810bb2b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/3d34789ada5781681dc6da12810bb2b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/326bf7c9d4aca321312a2c9167eadd22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/326bf7c9d4aca321312a2c9167eadd22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90f09eaeb3bff34dd5d8e7a0d55811a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90f09eaeb3bff34dd5d8e7a0d55811a7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 7/motionlayout-start/app/src/main/AndroidManifest.xml
