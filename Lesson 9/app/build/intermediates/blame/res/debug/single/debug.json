@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/layout_activity_hunt_main.xml.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/layout/activity_hunt_main.xml"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/drawable_android_map.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/drawable/android_map.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/font_della_respira.ttf.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/font/della_respira.ttf"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_map_small.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/drawable-xxxhdpi/map_small.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/drawable_android_treasure.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/drawable/android_treasure.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 9/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
