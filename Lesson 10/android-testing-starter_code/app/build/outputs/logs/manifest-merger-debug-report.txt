@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b015d44fa561fcfd04f5805d9c0b13d1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/3602120d3b8af855665fe9576acd7ef2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c4bd4fdcf33a6b119180a33b7160dee4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/623b9fc5e528b7e518ad706a4f7aa1d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5c8ce05b4e36b1aeea47f8acedad6c79/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/1479c9cc4fcb86f529199357c140ad7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/70d6e4c2e6f022f7b46888acd77fddfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2924d9379875f1f7ff94f752be115286/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90c9c452fdc23545bf0173f78d208881/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/45d26161ca1b66c7131b1cefece8dafd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/485fdd79d14f1d3f5e2d4f261b31255e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/fccf89a090161dd2196d194b62e3f4b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/16e421d0c193d3b3911e90f96d413485/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/8d44b2183e54efee1b21196ded3074de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/0eff7f34f3a8ce4b1dc777935dccc90a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/7e696328a83cfa81ae27f7617a314fd8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f362862dc4532cf26a0e1a34813659f7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2480f5899de056b6f00cc18d3bf6fdce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d1494921205e900e611e79653ea9be93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a8609b60a927f0adae14eb2ed62e0b88/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/504ce8d4129a2609cc7d8602c7a0795c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58ed4672107710a2f0afccf4c50abb16/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/16a5cc0e207f5ac72258bf8860c9fe30/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/fa0af4e51987ec48337a30ee56c5d045/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2a33c3b14cb7aff3090282a615d19db5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/8b57ab768b9c5010ab00e1833392fc6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/411521994512c11f209d088906555912/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/80f3d4f2b237390cf39ffbc175432b3a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/759b97c329c8a3c0bd68eeaef8360c43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/071806ae84ed1fcd3cbe78ab7efb8b18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9df39441fbc189b922dd533361c9cf8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/db2193fbc90b434f6384feb08229d75f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c90ac3bf427dda25c1415e0d30ce55b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/25b9cfdfae23cb8621647f4ef36d356c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/50e9aa96b129c9188cc12b9fee2a0203/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b22d5c92979aa7f688c5cd8cb7eb3a88/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/26ad4cd7f148ea0a9fc620a40a3dae3b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/737842877de3086faa1a63c5df778294/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d366c092aed5a3cc25fe7a34cc747f7d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55af25bb332befc9036c506640c5e84f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/aef5abee048d8cfa66e9fcf274fae467/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9c83682c4c4fd66c756e0e0aa8e41ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55b2a2bace2e67caea77b94d9b87d164/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90569910e0938b12b2fbe0880e48b664/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e40490defd6f258789f308d9cb4d0022/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ac044b753d0d8c96095ac3ef9a7c8967/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/66d5dbf526842f1594f7da1422b18d70/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e60866730a36bdf61b36c1c34b27909c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/234639d69e652d8c7724a9e9ad7fed82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5280a8e6a93a4ad301152ea790ce14bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/eb89f11fc0991f4b07f9700c3f9b0488/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/89fa8688e5e0362de0d0b5f6c58e13d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/7fc9ba53b44a1fd08e8df71cd9905d33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd20778cb27b9a87f6685dbad02336a1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/22704aec21af5e10ff20916b6fb2d64e/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+	package
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:19:5-66
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:1-39:12
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:21:5-37:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5c8ce05b4e36b1aeea47f8acedad6c79/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5c8ce05b4e36b1aeea47f8acedad6c79/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a8609b60a927f0adae14eb2ed62e0b88/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a8609b60a927f0adae14eb2ed62e0b88/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55af25bb332befc9036c506640c5e84f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55af25bb332befc9036c506640c5e84f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd20778cb27b9a87f6685dbad02336a1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd20778cb27b9a87f6685dbad02336a1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/22704aec21af5e10ff20916b6fb2d64e/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/22704aec21af5e10ff20916b6fb2d64e/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55af25bb332befc9036c506640c5e84f/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:22:9-36
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.architecture.blueprints.todoapp.tasks.TasksActivity
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:windowSoftInputMode
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:30:13-55
+	android:theme
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:29:13-99
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b015d44fa561fcfd04f5805d9c0b13d1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b015d44fa561fcfd04f5805d9c0b13d1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/3602120d3b8af855665fe9576acd7ef2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/3602120d3b8af855665fe9576acd7ef2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c4bd4fdcf33a6b119180a33b7160dee4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c4bd4fdcf33a6b119180a33b7160dee4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/623b9fc5e528b7e518ad706a4f7aa1d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/623b9fc5e528b7e518ad706a4f7aa1d4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5c8ce05b4e36b1aeea47f8acedad6c79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5c8ce05b4e36b1aeea47f8acedad6c79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/1479c9cc4fcb86f529199357c140ad7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/1479c9cc4fcb86f529199357c140ad7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/70d6e4c2e6f022f7b46888acd77fddfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/70d6e4c2e6f022f7b46888acd77fddfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2924d9379875f1f7ff94f752be115286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2924d9379875f1f7ff94f752be115286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90c9c452fdc23545bf0173f78d208881/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90c9c452fdc23545bf0173f78d208881/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/45d26161ca1b66c7131b1cefece8dafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/45d26161ca1b66c7131b1cefece8dafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/485fdd79d14f1d3f5e2d4f261b31255e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/485fdd79d14f1d3f5e2d4f261b31255e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/fccf89a090161dd2196d194b62e3f4b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/fccf89a090161dd2196d194b62e3f4b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/16e421d0c193d3b3911e90f96d413485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/16e421d0c193d3b3911e90f96d413485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/8d44b2183e54efee1b21196ded3074de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/8d44b2183e54efee1b21196ded3074de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/0eff7f34f3a8ce4b1dc777935dccc90a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/0eff7f34f3a8ce4b1dc777935dccc90a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/7e696328a83cfa81ae27f7617a314fd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/7e696328a83cfa81ae27f7617a314fd8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f362862dc4532cf26a0e1a34813659f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/f362862dc4532cf26a0e1a34813659f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2480f5899de056b6f00cc18d3bf6fdce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2480f5899de056b6f00cc18d3bf6fdce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d1494921205e900e611e79653ea9be93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d1494921205e900e611e79653ea9be93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a8609b60a927f0adae14eb2ed62e0b88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/a8609b60a927f0adae14eb2ed62e0b88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/504ce8d4129a2609cc7d8602c7a0795c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/504ce8d4129a2609cc7d8602c7a0795c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58ed4672107710a2f0afccf4c50abb16/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/58ed4672107710a2f0afccf4c50abb16/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/16a5cc0e207f5ac72258bf8860c9fe30/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/16a5cc0e207f5ac72258bf8860c9fe30/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/fa0af4e51987ec48337a30ee56c5d045/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/fa0af4e51987ec48337a30ee56c5d045/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2a33c3b14cb7aff3090282a615d19db5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/2a33c3b14cb7aff3090282a615d19db5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/8b57ab768b9c5010ab00e1833392fc6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/8b57ab768b9c5010ab00e1833392fc6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/411521994512c11f209d088906555912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/411521994512c11f209d088906555912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/80f3d4f2b237390cf39ffbc175432b3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/80f3d4f2b237390cf39ffbc175432b3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/759b97c329c8a3c0bd68eeaef8360c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/759b97c329c8a3c0bd68eeaef8360c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/071806ae84ed1fcd3cbe78ab7efb8b18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/071806ae84ed1fcd3cbe78ab7efb8b18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9df39441fbc189b922dd533361c9cf8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9df39441fbc189b922dd533361c9cf8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/db2193fbc90b434f6384feb08229d75f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/db2193fbc90b434f6384feb08229d75f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c90ac3bf427dda25c1415e0d30ce55b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/c90ac3bf427dda25c1415e0d30ce55b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/25b9cfdfae23cb8621647f4ef36d356c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/25b9cfdfae23cb8621647f4ef36d356c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/50e9aa96b129c9188cc12b9fee2a0203/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/50e9aa96b129c9188cc12b9fee2a0203/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b22d5c92979aa7f688c5cd8cb7eb3a88/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b22d5c92979aa7f688c5cd8cb7eb3a88/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/26ad4cd7f148ea0a9fc620a40a3dae3b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/26ad4cd7f148ea0a9fc620a40a3dae3b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/737842877de3086faa1a63c5df778294/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/737842877de3086faa1a63c5df778294/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d366c092aed5a3cc25fe7a34cc747f7d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha06] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/d366c092aed5a3cc25fe7a34cc747f7d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55af25bb332befc9036c506640c5e84f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55af25bb332befc9036c506640c5e84f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/aef5abee048d8cfa66e9fcf274fae467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/aef5abee048d8cfa66e9fcf274fae467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9c83682c4c4fd66c756e0e0aa8e41ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/9c83682c4c4fd66c756e0e0aa8e41ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55b2a2bace2e67caea77b94d9b87d164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/55b2a2bace2e67caea77b94d9b87d164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90569910e0938b12b2fbe0880e48b664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/90569910e0938b12b2fbe0880e48b664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e40490defd6f258789f308d9cb4d0022/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e40490defd6f258789f308d9cb4d0022/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ac044b753d0d8c96095ac3ef9a7c8967/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/ac044b753d0d8c96095ac3ef9a7c8967/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/66d5dbf526842f1594f7da1422b18d70/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/66d5dbf526842f1594f7da1422b18d70/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e60866730a36bdf61b36c1c34b27909c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/e60866730a36bdf61b36c1c34b27909c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/234639d69e652d8c7724a9e9ad7fed82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/234639d69e652d8c7724a9e9ad7fed82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5280a8e6a93a4ad301152ea790ce14bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/5280a8e6a93a4ad301152ea790ce14bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/eb89f11fc0991f4b07f9700c3f9b0488/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/eb89f11fc0991f4b07f9700c3f9b0488/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/89fa8688e5e0362de0d0b5f6c58e13d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/89fa8688e5e0362de0d0b5f6c58e13d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/7fc9ba53b44a1fd08e8df71cd9905d33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/7fc9ba53b44a1fd08e8df71cd9905d33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd20778cb27b9a87f6685dbad02336a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/bd20778cb27b9a87f6685dbad02336a1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/22704aec21af5e10ff20916b6fb2d64e/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/22704aec21af5e10ff20916b6fb2d64e/AndroidManifest.xml:5:5-43
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/b1b084d1d68337395ead84bf09ed25d2/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/isabelcouto/.gradle/caches/transforms-2/files-2.1/03eeb50561ce99445a4858d2bae0d543/AndroidManifest.xml:24:13-79

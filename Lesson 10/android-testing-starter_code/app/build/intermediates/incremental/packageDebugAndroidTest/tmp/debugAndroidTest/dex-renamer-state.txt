@@ -1,0 +1,4 @@
+#Wed Apr 22 14:50:37 WEST 2020
+base.0=/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 10/android-testing-starter_code/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+path.0=classes.dex
+renamed.0=classes.dex
