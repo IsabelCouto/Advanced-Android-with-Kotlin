@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 24 23:00:04 WEST 2020
+0.baseType=DIRECTORY
+0.base=/Users/isabelcouto/Documents/GitHub/Advanced-Android-with-Kotlin/Lesson 11/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+0.path=classes.dex
+0.set=DEX
+count=1
